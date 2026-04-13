@@ -68,4 +68,9 @@ Este projeto documenta o planeamento e a implementação de uma infraestrutura d
 
     Cultura DevOps: Introdução a conceitos de automação de redes, segurança de perímetros e migração para ambientes de nuvem.
 
-Projeto desenvolvido por: Paulo Ricardo Ferreira Lacerda.
+## 👥 Equipe do Projeto
+Este trabalho foi desenvolvido de forma colaborativa pelos integrantes:
+* **Victor Hugo Silva Rubio**
+* **Kenzo Ramos Otaguiri**
+* **Mariana Khodr Susini**
+* **Paulo Ricardo Ferreira Lacerda**
